@@ -1,1 +1,9 @@
 D:\Project\Toss\Toss\Toss\bin\Debug\Toss.exe.config
+D:\Project\Toss\Toss\Toss\bin\Debug\Toss.exe
+D:\Project\Toss\Toss\Toss\bin\Debug\Toss.pdb
+D:\Project\Toss\Toss\Toss\obj\Debug\Toss.csprojResolveAssemblyReference.cache
+D:\Project\Toss\Toss\Toss\obj\Debug\Toss.Form1.resources
+D:\Project\Toss\Toss\Toss\obj\Debug\Toss.Properties.Resources.resources
+D:\Project\Toss\Toss\Toss\obj\Debug\Toss.csproj.GenerateResource.Cache
+D:\Project\Toss\Toss\Toss\obj\Debug\Toss.exe
+D:\Project\Toss\Toss\Toss\obj\Debug\Toss.pdb
